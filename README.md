@@ -18,8 +18,6 @@ El API se ejecuta con el comando:
 
 Para el funcionamiento del API haremos uso de dos endpoints:
 
-- localhost:8000/predict
-Este realiza la predicción para un solo caso.
+- localhost:8000/predict  -   Este realiza la predicción para un solo caso.
 
-- localhost:8000/predictMany
-Realiza la predicción R^2 del modelo.
+- localhost:8000/predictMany  -   Realiza la predicción R^2 del modelo.
