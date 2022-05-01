@@ -2,9 +2,9 @@
 
 ## Miembros
 
-Carlos Figueredo - 201813445
-Carlos Ballén -
-Simón Guzmán - 
+- Carlos Figueredo - 201813445
+- Carlos Ballén - 200821488
+- Simón Guzmán - 201533711
 
 Este laboratorio tiene como objetivo profundizar en la construcción de pipelines con el fin de llevar modelos de machine learning a producción. Además, se busca construir un API para montar el modelo y realizar predicciones mediante peticiones HTTP.
 
