@@ -1,5 +1,11 @@
 # Laboratorio 4 - Inteligencia de Negocios
 
+## Miembros
+
+Carlos Figueredo - 201813445
+Carlos Ballén -
+Simón Guzmán - 
+
 Este laboratorio tiene como objetivo profundizar en la construcción de pipelines con el fin de llevar modelos de machine learning a producción. Además, se busca construir un API para montar el modelo y realizar predicciones mediante peticiones HTTP.
 
 ## Instalar dependencias
