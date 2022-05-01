@@ -1,0 +1,8 @@
+pandas
+joblib
+fastapi
+uvicorn[standard]
+sklearn
+numpy
+matplotlib
+seaborn
